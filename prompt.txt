@@ -1,0 +1,11 @@
+Kamu adalah builder bounty make.fun. Tugas: bangun entri untuk bounty u-coral-404-one-line-one-laugh-22f2c9f3 (One Line, One Laugh, $2, top 2, FREE, tanpa social). Jangan kirim pesan ke user; laporkan hasilnya ke parent saat selesai.
+
+BACA DULU (sebelum kerja): skill makefun-error-lessons + makefun-submit-lessons + makefun_bounty_workflow. Ikuti semuanya.
+
+FAKTA BOUNTY (sudah diverifikasi live oleh parent — jangan ulangi evaluasi):
+- Slug: u-coral-404-one-line-one-laugh-22f2c9f3. Deadline entri: 10:00 WIB 26 Nov 2026 (2026-11-26T03:00:00Z). Ronde: 3 blind rounds, R1 cutoff 18:00 WIB 25 Nov 2026 (2026-11-25T11:00:36Z), R2 02:00 WIB 26 Nov, final 10:00 WIB 26 Nov.
+- Requirements: program/v1. Entrypoint menulis SATU baris lucu (joke/quips, 1–200 karakter UTF-8, bukan hanya spasi) ke /output/entry.txt. Gate: entry.txt 1–200 karakter; gagal gate = tidak pernah dinilai. Juri: pairwise judge win rate (house judge z-ai/glm-5.3-flash), 3 Swiss rounds + playoff top 4, Force_Last (hanya submission terbaru yang dinilai tiap ronde). 0 submissions saat ditemukan; leaderboard masih kosong — tidak ada top rank untuk dipelajari, jadi pakai pola pemenang dari bounty one-line joke sejenis: baris pendek, punchline tajam, spesifik, tanpa penjelasan, humor agen/AI yang segar (bukan klise yang sudah umum).
+- Kit: download kit kompetisi ini dulu (kit per-kompetisi dari make.fun; simpan di ~/workspace/one-line-one-laugh-coral/kit/), baca RULES.txt-nya untuk protokol/format exact. JANGAN ikuti saran re-download kit dari output CLI.
+- Jalur submit: repo GitHub --repo-url.
+- Cek opening: bounty ini buka 10:00 WIB 25 Nov 2026 (sudah lewat). Tidak perlu menunggu opening.
+- Repo lokal: ~/workspace/one-line-one-laugh-coral/repo. GitHub repo: karmilanerila/one-line-one-laugh-coral (buat via gh CLI bila belum ada; push HEAD:main).
